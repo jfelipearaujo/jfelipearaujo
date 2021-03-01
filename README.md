@@ -6,7 +6,7 @@
 Apaixonado por games, programação e jogos de estratégia!
 Sou Engenheiro de Software focado em .Net :computer:
 
- :office:  &nbsp; Estou trabalhando na **CI&T**
+ :office:  &nbsp; Trabalho na **CI&T** como Engenheiro de Software Pleno
  <br/> :construction_worker: &nbsp; Tem interesse em trabalhar conosco? Dá uma olhadinha [aqui](https://ciandt.com/br/pt-br/carreiras/oportunidades)
  <br/> :purple_heart: &nbsp; Buscando aprender cada dia mais e no momento estudando um tal de <b>Elixir</b> e <b>AWS</b>
  <br/> :computer: &nbsp; Atualmente meu foco é .NET
