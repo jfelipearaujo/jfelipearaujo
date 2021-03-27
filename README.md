@@ -2,7 +2,7 @@
 
 # Jose Felipe Araujo
 
-## Welcome 👋 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1f8.png?v8" width="25" />
+## Welcome 👋 🇺🇸
 Passionate by games, software development and strategy games!
 
 I'm a Software Engineer with a focus on .Net :computer:
@@ -14,7 +14,7 @@ I'm a Software Engineer with a focus on .Net :computer:
  <br/> :email: &nbsp; Please contact me: [![Linkedin Badge](https://img.shields.io/badge/Jose%20Felipe%20Araujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsfelipearaujo/)](https://www.linkedin.com/in/jsfelipearaujo/)
  <br/> :video_game: &nbsp; Add me on [![Steam_Badhe](https://img.shields.io/badge/steam-jfelipearaujo-lightgrey)](https://steamcommunity.com/id/jsfelipearaujo/)
 
-## Seja bem-vindo 👋 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8" width="25" />
+## Seja bem-vindo 👋 🇧🇷
 Apaixonado por games, programação e jogos de estratégia!
 
 Sou Engenheiro de Software focado em .Net :computer:
