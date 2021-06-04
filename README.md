@@ -2,6 +2,8 @@
 
 # Jose Felipe Araujo
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfelipearaujo&layout=compact&langs_count=16&theme=dark"/>
+
 ## Welcome 👋 🇺🇸
 Passionate by games, software development and strategy games!
 
