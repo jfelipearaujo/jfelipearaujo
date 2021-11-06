@@ -10,7 +10,7 @@ Passionate by games, software development and strategy games!
 I'm a Software Engineer with a focus on .Net :computer:
 
  :office:  &nbsp; Working at **CI&T** as Software Engineer
- <br/> :construction_worker: &nbsp; Are you interested in working with us? Take a look [here](https://ciandt.com/br/pt-br/carreiras/oportunidades)
+ <br/> :construction_worker: &nbsp; Are you interested in working with us? Take a look [here](https://ciandt.com/us/en-us/careers/open-positions)
  <br/> :purple_heart: &nbsp; Seeking to learn more every day and at the moment studying <b>AWS</b>
  <br/> 💬  &nbsp; I have over 347 hours on Transport Fever 2 and my game of life is The Last of Us II
  <br/> :email: &nbsp; Please contact me: [![Linkedin Badge](https://img.shields.io/badge/Jose%20Felipe%20Araujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsfelipearaujo/)](https://www.linkedin.com/in/jsfelipearaujo/)
