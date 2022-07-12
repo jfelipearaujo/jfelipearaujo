@@ -6,6 +6,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfelipearaujo&hide=javascript,HTML,CSS&layout=compact&langs_count=16&theme=dark"/>
  
  <br />
+ <br />
  
  <img src="https://github-readme-stats.vercel.app/api?username=jfelipearaujo&show_icons=true&theme=dark" />
 </div>
