@@ -13,7 +13,7 @@
 ## Welcome 👋 🇺🇸
 Passionate by games, software development and strategy games!
 
-I'm a Software Engineer with a focus on .Net :computer:
+I'm a Software Engineer with a focus on .NET and GO Lang :computer:
 
  :office:  &nbsp; Working at **CI&T** as Software Engineer
  <br/> :construction_worker: &nbsp; Are you interested in working with us? Take a look [here](https://ciandt.com/us/en-us/careers/open-positions)
@@ -25,7 +25,7 @@ I'm a Software Engineer with a focus on .Net :computer:
 ## Seja bem-vindo 👋 🇧🇷
 Apaixonado por games, programação e jogos de estratégia!
 
-Sou Engenheiro de Software focado em .Net :computer:
+Sou Engenheiro de Software focado em .NET and GO Lang :computer:
 
  :office:  &nbsp; Trabalho na **CI&T** como Engenheiro de Software Pleno
  <br/> :construction_worker: &nbsp; Tem interesse em trabalhar conosco? Dá uma olhadinha [aqui](https://ciandt.com/br/pt-br/carreiras/oportunidades)
