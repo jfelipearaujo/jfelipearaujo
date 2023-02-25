@@ -3,7 +3,7 @@
 # Jose Felipe Araujo
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfelipearaujo&hide=HTML,CSS&layout=compact&langs_count=16&theme=dark"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfelipearaujo&hide=javascript,HTML,CSS&layout=compact&langs_count=16&theme=dark"/>
  
  <br />
  <br />
