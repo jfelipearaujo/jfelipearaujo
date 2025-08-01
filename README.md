@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=jfelipearaujo&theme=onedark&column=4"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=jfelipearaujo&theme=onedark&column=5"/>
 </div>
 
 ## Welcome 👋 🇺🇸
