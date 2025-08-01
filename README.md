@@ -10,7 +10,7 @@
  <img src="https://github-profile-trophy.vercel.app/?username=jfelipearaujo&theme=onedark&column=5"/>
 </div>
 
-## Welcome 👋 🇺🇸
+## Welcome 👋
 Passionate by games, software development and strategy games!
 
 I'm a Software Engineer with a focus on .NET, GoLang, NodeJS and Python :computer:
