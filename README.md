@@ -2,9 +2,14 @@
 
 # Jose Felipe Araujo
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfelipearaujo&hide=javascript,HTML,CSS&layout=compact&langs_count=16&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api?username=jfelipearaujo&show_icons=true&theme=dark" />
- 
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfelipearaujo&hide=javascript,HTML,CSS&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=jfelipearaujo&theme=onedark&column=4"/>
+</div>
+
 ## Welcome 👋 🇺🇸
 Passionate by games, software development and strategy games!
 
