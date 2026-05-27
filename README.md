@@ -2,15 +2,6 @@
 
 # Jose Felipe Araujo
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfelipearaujo&hide=javascript,HTML,CSS&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=jfelipearaujo&theme=onedark&column=5"/>
-</div>
-
-## Welcome 👋
 Passionate by games, software development and strategy games!
 
 I'm a Software Engineer with a focus on .NET, GoLang, NodeJS and Python :computer:
